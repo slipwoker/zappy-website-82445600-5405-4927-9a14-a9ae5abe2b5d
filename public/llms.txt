@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Explore Israel like never before with New Era Tours. Unforgettable tours and activities crafted for curious travelers seeking authentic adventures.
+
+### Destinations
+https://example.com/destinations
+From ancient Jerusalem to vibrant Tel Aviv, discover Israel's most captivating destinations. Plan your perfect journey with expert local guides today.
+
+### Experiences
+https://example.com/experiences
+Immerse yourself in unique cultural experiences, culinary tours, and adventure activities. Create memories that last a lifetime with new era tours.
+
+### Contact
+https://example.com/contact
+Ready to explore Israel? Contact our friendly team for personalized tour recommendations and expert travel advice. Your journey begins here with us.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
